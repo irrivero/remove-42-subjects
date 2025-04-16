@@ -24,7 +24,7 @@ pip install git-filter-repo
 1. Navigate to the root directory of your 42 project repository
 2. Run the script:
 ```bash
-./subject-cleaner.sh
+./clean_subject.sh
 ```
 
 ## ⚠️ Warning
